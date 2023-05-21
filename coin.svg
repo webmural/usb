@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1200 1200">
+  <title>swan</title>
+  <style>
+    svg { background: violet }
+  </style>
+  <circle r="30%" fill="indigo" cx="50%" cy="50%" />
+</svg>
